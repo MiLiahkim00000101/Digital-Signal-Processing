@@ -1,0 +1,9 @@
+*.venv
+test
+Task1/furry.py
+.ipynb_checkpoints
+
+Task2/fft_own.ipynb
+Task2/help.ipynb
+
+
